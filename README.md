@@ -1,3 +1,5 @@
+## Project
+Création d'une plateforme en Laravel sous lando afin de mettre en avant la mise en place de plusieurs tests avec PHPUnit.
 
 ## Installation
 
