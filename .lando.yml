@@ -1,0 +1,5 @@
+name: todo
+recipe: laravel
+config:
+  webroot: public
+  php: '8.0'
